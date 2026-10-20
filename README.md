@@ -1,7 +1,7 @@
 # Hi there, I'm Ariana Qistina 👋
 
 ### 👩‍💻 About Me
-I'm a **1st-year Data Engineering student** passionate about working with data pipelines, databases, and big data technology!
+I'm a **1st-year Bachelor in Computer Science (Data Engineering) with honours student** passionate about working with data pipelines, databases, and big data technology!
 
 - 🎓 Studying: **B.S. in Data Engineering**
 - 📚 Currently learning: **SQL, Python, Data Structures & Database Systems**
